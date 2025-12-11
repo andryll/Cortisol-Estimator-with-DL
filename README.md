@@ -6,9 +6,9 @@ This repository contains the source code and experiments for the automatic estim
 
 The goal of this project is to quantify cortisol levels based on time series data. We implemented and compared three specific models:
 
-1.  **Rocket** (Baseline): A convolution-based model using random kernels.
-2.  **FCN** (Fully Convolutional Network): A standard neural network for time series.
-3.  **InceptionTime** (State-of-the-art): A deep learning ensemble based on the Inception architecture.
+1.  **Rocket**: A convolution-based model using random kernels.
+2.  **FCN**: A standard neural network for time series.
+3.  **InceptionTime**: A deep learning ensemble based on the Inception architecture.
 
 ## Results Summary
 
